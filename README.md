@@ -101,14 +101,13 @@ activity_main.xml
 </android.support.constraint.ConstraintLayout>
 ```
 
+
+
 ## OUTPUT
-
 ![Screenshot (533)](https://user-images.githubusercontent.com/75235813/162773867-41cdc271-534c-43a0-8ea3-b8bd48b48904.png)
-
 ![Screenshot (537)](https://user-images.githubusercontent.com/75235813/162775008-82f27bfe-f010-40ff-8bfd-2b0b3930bf28.png)
 
 ![Screenshot (536)](https://user-images.githubusercontent.com/75235813/162775133-4b038f24-d7ed-4396-ab9b-cec3be48b8e3.png)
-
 ![Screenshot (534)](https://user-images.githubusercontent.com/75235813/162775507-9446d453-9d59-42dc-bb2b-bfc1216faadd.png)
 
 ![Screenshot (535)](https://user-images.githubusercontent.com/75235813/162775649-2b954ea7-e493-4f94-ad6a-fa234bd087d7.png)
